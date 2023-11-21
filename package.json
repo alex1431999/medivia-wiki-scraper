@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.202",
+    "axios": "^1.6.2",
+    "lodash": "^4.17.21"
   }
 }
