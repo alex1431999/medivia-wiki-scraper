@@ -1,5 +1,6 @@
 import pages from './src/page.ts';
 import {Data} from "./src/types.ts";
+import * as fs from "fs";
 
 let data: Data = {
   items: []
@@ -9,4 +10,4 @@ for (let i = 0; i < pages.length; i += 1) {
   data = await pages[i].scrape(data)
 }
 
-console.log(data)
+fs.writeFileSync('./output/data.json', JSON.stringify(data, null, 2))
