@@ -2,8 +2,11 @@ import scraper from "./scraper.ts";
 import _ from "lodash";
 import {Creature, Data, Item} from "./types.ts";
 
-abstract class Page {
+abstract class Page<T> {
   abstract get url(): string
+
+  abstract extractionSequence(content: string): { content: string, data: T }
+  abstract insertData(data: Data, dataExtracted: any): Data
 
   async scrape(data: Data) {
     const content = await scraper.scrape(this.url);
@@ -13,35 +16,28 @@ abstract class Page {
     return this.insertData(data, dataExtracted)
   }
 
-  abstract extractData(content: string): any;
-  abstract insertData(data: Data, dataExtracted: any): Data
+  extractData(content: string): T[] {
+    return scraper.runExtractionSequence(content, this.extractionSequence)
+  }
 }
 
-class CreaturesPage extends Page {
+class CreaturesPage extends Page<Creature> {
   get url(): string {
     return 'https://wiki.mediviastats.info/Creatures';
   }
 
-  extractData(content: string): any {
-    const creatures: Creature[] = []
+  extractionSequence(content: string): { content: string, data: Creature } {
+    content = scraper.navigateTo(content, '<td style="text-align: left; width: 195px">')
+    content = scraper.navigateTo(content, 'href="')
 
-    while (true) {
-      try {
-        content = scraper.navigateTo(content, '<td style="text-align: left; width: 195px">')
-        content = scraper.navigateTo(content, 'href="')
-      } catch (error) {
-        return creatures
-      }
+    const relativePath = scraper.extract(content, '"')
+    const url = `https://wiki.mediviastats.info${relativePath}`
 
-      const relativePath = scraper.extract(content, '"')
-      const url = `https://wiki.mediviastats.info${relativePath}`
+    content = scraper.navigateTo(content, '">')
 
-      content = scraper.navigateTo(content, '">')
+    const name = scraper.extract(content, "</a>")
 
-      const name = scraper.extract(content, "</a>")
-
-      creatures.push({ url, name })
-    }
+    return { content, data: { url, name }}
   }
 
   insertData(data: Data, dataExtracted: any): Data {
@@ -50,41 +46,26 @@ class CreaturesPage extends Page {
   }
 }
 
-class ZiyadPage extends Page {
+class ZiyadPage extends Page<Item> {
   get url(): string {
     return "https://wiki.mediviastats.info/Ziyad";
   }
 
-  extractData(content: string): Item[] {
-    const items: Item[] = []
+  extractionSequence(content: string) : { content: string, data: Item } {
+    content = scraper.navigateTo(content, '<td><a')
+    content = scraper.navigateTo(content, 'title="')
 
-    while (true) {
-      try {
-        content = scraper.navigateTo(content, '<td><a')
-        content = scraper.navigateTo(content, 'title="')
-      } catch (e) {
-        // This means we are done
-        return items
-      }
+    const itemName = scraper.extract(content, '"')
 
-      const itemName = scraper.extract(content, '"')
+    content = scraper.navigateTo(content, '<td style')
+    content = scraper.navigateTo(content, '">')
 
-      content = scraper.navigateTo(content, '<td style')
-      content = scraper.navigateTo(content, '">')
+    const price = scraper.extract(content, " gp")
+    const priceWithoutComma = price.replace(",", "") // Remove commas
+    const priceCasted = _.toNumber(priceWithoutComma)
 
-      const price = scraper.extract(content, " gp")
+    return { content, data: {  name: itemName, price: priceCasted, sellto: 'Ziyad'  }}
 
-
-      const priceWithoutComma = price.replace(",", "") // Remove commas
-
-      if (_.isNaN(priceWithoutComma)) {
-        throw Error(`Value extracted for ${itemName} is not a number but ${priceWithoutComma} instead`)
-      }
-
-      const priceCasted = _.toNumber(priceWithoutComma)
-
-      items.push({ name: itemName, price: priceCasted, sellto: 'Ziyad' })
-    }
   }
 
   insertData(data: Data, dataExtracted: Item[]): Data {

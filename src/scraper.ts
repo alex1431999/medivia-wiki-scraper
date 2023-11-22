@@ -33,5 +33,19 @@ class Scraper {
 
     throw Error('Did not find end')
   }
+
+  runExtractionSequence<T>(content: string, sequence: (content: string) => { content: string, data: T }): T[] {
+    const dataExtracted: T[] = []
+
+    while (true) {
+      try {
+        const result = sequence(content)
+        dataExtracted.push(result.data)
+        content = result.content
+      } catch (error) {
+        return dataExtracted
+      }
+    }
+  }
 }
 export default new Scraper()
