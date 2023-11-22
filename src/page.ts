@@ -1,6 +1,6 @@
 import scraper from "./scraper.ts";
 import _ from "lodash";
-import {Data, Item} from "./types.ts";
+import {Creature, Data, Item} from "./types.ts";
 
 abstract class Page {
   abstract get url(): string
@@ -15,6 +15,39 @@ abstract class Page {
 
   abstract extractData(content: string): any;
   abstract insertData(data: Data, dataExtracted: any): Data
+}
+
+class CreaturesPage extends Page {
+  get url(): string {
+    return 'https://wiki.mediviastats.info/Creatures';
+  }
+
+  extractData(content: string): any {
+    const creatures: Creature[] = []
+
+    while (true) {
+      try {
+        content = scraper.navigateTo(content, '<td style="text-align: left; width: 195px">')
+        content = scraper.navigateTo(content, 'href="')
+      } catch (error) {
+        return creatures
+      }
+
+      const relativePath = scraper.extract(content, '"')
+      const url = `https://wiki.mediviastats.info${relativePath}`
+
+      content = scraper.navigateTo(content, '">')
+
+      const name = scraper.extract(content, "</a>")
+
+      creatures.push({ url, name })
+    }
+  }
+
+  insertData(data: Data, dataExtracted: any): Data {
+    data.creatures = dataExtracted
+    return data
+  }
 }
 
 class ZiyadPage extends Page {
@@ -61,5 +94,6 @@ class ZiyadPage extends Page {
 }
 
 export default [
-  new ZiyadPage()
+  new ZiyadPage(),
+  new CreaturesPage()
 ]

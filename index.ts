@@ -3,7 +3,8 @@ import {Data} from "./src/types.ts";
 import * as fs from "fs";
 
 let data: Data = {
-  items: []
+  items: [],
+  creatures: []
 }
 
 for (let i = 0; i < pages.length; i += 1) {

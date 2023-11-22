@@ -1,0 +1,1657 @@
+{
+  "items": [
+    {
+      "name": "Shakirian Mace",
+      "price": 80,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Bone Shield",
+      "price": 100,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Crystal Ring",
+      "price": 100,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Silver Brooch",
+      "price": 125,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Heavy Machete",
+      "price": 130,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Scarab Coin",
+      "price": 150,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Bone Sword",
+      "price": 220,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Aquamarine",
+      "price": 350,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Ancient Amulet",
+      "price": 500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Scarab Amulet",
+      "price": 500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Silver Dagger",
+      "price": 500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Smoking Pipe",
+      "price": 600,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Ruby Necklace",
+      "price": 900,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Assassin Dagger",
+      "price": 1000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Shakirian Waraxe",
+      "price": 1000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Devil Helmet",
+      "price": 1000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Mystic Turban",
+      "price": 1000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Shakirian Spellbook",
+      "price": 1350,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Platinum Amulet",
+      "price": 1500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Scarab Shield",
+      "price": 1500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Golden Amulet",
+      "price": 1600,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Watcher Helmet",
+      "price": 2500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Imperial Soldier Shield",
+      "price": 3000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Tortoise Boots",
+      "price": 3500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Gatecrasher",
+      "price": 4000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Wand of Light",
+      "price": 4000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Light Sword",
+      "price": 4500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Imperial Soldier Armor",
+      "price": 5500,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Shakirian Wand",
+      "price": 6000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Nether Shield",
+      "price": 6600,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "The Stinger",
+      "price": 7000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Medusa Shield",
+      "price": 8000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Bright Sword",
+      "price": 8000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Gold Ring",
+      "price": 8000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Guardian Halberd",
+      "price": 8000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Shakirian Shield",
+      "price": 11300,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Grim Boots",
+      "price": 10000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Swinging Demolisher",
+      "price": 16000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Crystallized Shield",
+      "price": 16000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Imperial Soldier Legs",
+      "price": 20000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Arming Sword",
+      "price": 20000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Golden Armor",
+      "price": 20000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Ring of the Sky",
+      "price": 20000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Bascinet",
+      "price": 24000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Huntsman Armor",
+      "price": 25000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Frozen Shield",
+      "price": 29000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Steel Boots",
+      "price": 30000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Dragon Scale Mail",
+      "price": 30000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Demon Shield",
+      "price": 30000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Grim Legs",
+      "price": 30000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Castle Shield",
+      "price": 35000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Heavy Halberd",
+      "price": 35000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Heavy Mace",
+      "price": 35000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Shakirian Blade",
+      "price": 35000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Hellforged Shield",
+      "price": 36000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Dragon Slayer",
+      "price": 40000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Elite Knight Boots",
+      "price": 40000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Executioner&#39;s Sword",
+      "price": 45000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Mercenary Sword",
+      "price": 45000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Holy Scepter",
+      "price": 50000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Elite Knight Helmet",
+      "price": 52000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Crescent Axe",
+      "price": 60000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Crescent Mace",
+      "price": 60000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Crescent Sword",
+      "price": 60000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Elite Knight Legs",
+      "price": 60000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Venomous Mace",
+      "price": 75000,
+      "sellto": "Ziyad"
+    },
+    {
+      "name": "Elite Knight Armor",
+      "price": 80000,
+      "sellto": "Ziyad"
+    }
+  ],
+  "creatures": [
+    {
+      "url": "https://wiki.mediviastats.info/Butterfly_(Green)",
+      "name": "Butterfly"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Butterfly_(Purple)",
+      "name": "Butterfly"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Butterfly_(Red)",
+      "name": "Butterfly"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Butterfly_(Yellow)",
+      "name": "Butterfly"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cat",
+      "name": "Cat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chicken",
+      "name": "Chicken"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Rooster",
+      "name": "Rooster"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fish_(Creature)",
+      "name": "Fish"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dog",
+      "name": "Dog"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sheep",
+      "name": "Sheep"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Black_Sheep",
+      "name": "Black Sheep"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Deer",
+      "name": "Deer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Goat",
+      "name": "Goat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Pig",
+      "name": "Pig"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Donkey",
+      "name": "Donkey"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Firefly",
+      "name": "Firefly"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Flamingo",
+      "name": "Flamingo"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Horse",
+      "name": "Horse"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Animated_Blood",
+      "name": "Animated Blood"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swarm_of_Fireflies",
+      "name": "Swarm of Fireflies"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Armored_Horse",
+      "name": "Armored Horse"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Possessed_Chicken",
+      "name": "Possessed Chicken"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Plagueworm",
+      "name": "Plagueworm"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Small_Spider",
+      "name": "Small Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Injured_Rat",
+      "name": "Injured Rat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Rat",
+      "name": "Rat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hungry_Rat",
+      "name": "Hungry Rat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Frog_(Blue)",
+      "name": "Frog"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Frog_(Green)",
+      "name": "Frog"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Snake",
+      "name": "Snake"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cave_Rat",
+      "name": "Cave Rat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Spider",
+      "name": "Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bee",
+      "name": "Bee"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wasp",
+      "name": "Wasp"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wolf",
+      "name": "Wolf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bug",
+      "name": "Bug"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Winter_Wolf",
+      "name": "Winter Wolf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Troll",
+      "name": "Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hyaena",
+      "name": "Hyaena"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Poison_Spider",
+      "name": "Poison Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Boar",
+      "name": "Boar"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Camel",
+      "name": "Camel"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Frost_Troll",
+      "name": "Frost Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bee_Drone",
+      "name": "Bee Drone"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bear",
+      "name": "Bear"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Heretic",
+      "name": "Heretic"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Nether_Spiderling",
+      "name": "Nether Spiderling"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Goblin",
+      "name": "Goblin"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Goblin_Warrior",
+      "name": "Goblin Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swamp_Troll",
+      "name": "Swamp Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mugger",
+      "name": "Mugger"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc",
+      "name": "Orc"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Polar_Bear",
+      "name": "Polar Bear"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ant",
+      "name": "Ant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cobra",
+      "name": "Cobra"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Lion",
+      "name": "Lion"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crystal_Worker",
+      "name": "Crystal Worker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton",
+      "name": "Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Armored_Skeleton",
+      "name": "Armored Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Panda",
+      "name": "Panda"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bat",
+      "name": "Bat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sand_Troll",
+      "name": "Sand Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Lunar_Troll",
+      "name": "Lunar Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Spearman",
+      "name": "Orc Spearman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Rotworm",
+      "name": "Rotworm"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf",
+      "name": "Elf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf",
+      "name": "Dark Elf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Larva",
+      "name": "Larva"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Scorpion",
+      "name": "Scorpion"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf",
+      "name": "Dwarf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mud_Wasp",
+      "name": "Mud Wasp"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blood_Maggot",
+      "name": "Blood Maggot"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sand_Spider",
+      "name": "Sand Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Minotaur",
+      "name": "Minotaur"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Warrior",
+      "name": "Orc Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Stone_Rotworm",
+      "name": "Stone Rotworm"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Maggot",
+      "name": "Maggot"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Tortoise",
+      "name": "Tortoise"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/War_Wolf",
+      "name": "War Wolf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crocodile_Hatchling",
+      "name": "Crocodile Hatchling"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wild_Warrior",
+      "name": "Wild Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Rogue",
+      "name": "Rogue"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Minotaur_Archer",
+      "name": "Minotaur Archer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bandit",
+      "name": "Bandit"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_Soldier",
+      "name": "Dwarf Soldier"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Old_Skeleton",
+      "name": "Old Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf_Scout",
+      "name": "Elf Scout"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf_Scout",
+      "name": "Dark Elf Scout"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mutated_Rat",
+      "name": "Mutated Rat"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ghoul",
+      "name": "Ghoul"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mercenary",
+      "name": "Mercenary"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Eye_of_Shadow",
+      "name": "Eye of Shadow"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Caiman",
+      "name": "Caiman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crewman",
+      "name": "Crewman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mercenary_Cavalry",
+      "name": "Mercenary Cavalry"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Shaman",
+      "name": "Orc Shaman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Rider",
+      "name": "Orc Rider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fire_Devil",
+      "name": "Fire Devil"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Waterblob",
+      "name": "Waterblob"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ghost",
+      "name": "Ghost"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ghost_(Grey)",
+      "name": "Ghost"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Witch",
+      "name": "Witch"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crystal_Bug",
+      "name": "Crystal Bug"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Scarab",
+      "name": "Scarab"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ant_Worker",
+      "name": "Ant Worker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Killer_Wasp",
+      "name": "Killer Wasp"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Nightcrawler",
+      "name": "Nightcrawler"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Alpha_Wolf",
+      "name": "Alpha Wolf"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Alligator",
+      "name": "Alligator"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hunter",
+      "name": "Hunter"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Minotaur_Mage",
+      "name": "Minotaur Mage"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mummy",
+      "name": "Mummy"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Gargoyle",
+      "name": "Gargoyle"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cyclops",
+      "name": "Cyclops"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Slime",
+      "name": "Slime"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shadow",
+      "name": "Shadow"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Minotaur_Guard",
+      "name": "Minotaur Guard"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Stone_Golem",
+      "name": "Stone Golem"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_Slayer",
+      "name": "Dwarf Slayer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_Guard",
+      "name": "Dwarf Guard"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Watcher",
+      "name": "Watcher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf_Arcanist",
+      "name": "Elf Arcanist"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf_Arcanist",
+      "name": "Dark Elf Arcanist"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hellish_Skeleton",
+      "name": "Hellish Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton_Archer",
+      "name": "Skeleton Archer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Bowman",
+      "name": "Orc Bowman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swashbuckler",
+      "name": "Swashbuckler"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf_Guardian",
+      "name": "Elf Guardian"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf_Guardian",
+      "name": "Dark Elf Guardian"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fire_Ant",
+      "name": "Fire Ant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ice_Elemental",
+      "name": "Ice Elemental"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Berserker",
+      "name": "Orc Berserker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crypt_Shambler",
+      "name": "Crypt Shambler"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Monk",
+      "name": "Monk"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hippopotamus",
+      "name": "Hippopotamus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Slave_Hunter",
+      "name": "Slave Hunter"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Green_Djinn",
+      "name": "Green Djinn"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blue_Djinn",
+      "name": "Blue Djinn"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Energy_Elemental",
+      "name": "Energy Elemental"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fire_Elemental",
+      "name": "Fire Elemental"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fire_Ant_Worker",
+      "name": "Fire Ant Worker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Enraged_Wasp",
+      "name": "Enraged Wasp"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Revenant",
+      "name": "Revenant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_Geomancer",
+      "name": "Dwarf Geomancer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Commodore",
+      "name": "Commodore"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Armored_Hellish_Skeleton",
+      "name": "Armored Hellish Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ash_Imp",
+      "name": "Ash Imp"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Harpy",
+      "name": "Harpy"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ember_Beetle",
+      "name": "Ember Beetle"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Leader",
+      "name": "Orc Leader"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Burning_Champion",
+      "name": "Burning Champion"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elder_Watcher",
+      "name": "Elder Watcher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fetish_Warrior",
+      "name": "Fetish Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fiery_Skeleton",
+      "name": "Fiery Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swamp_Leech",
+      "name": "Swamp Leech"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bee_Queen",
+      "name": "Bee Queen"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cyclops_Warrior",
+      "name": "Cyclops Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Efreet",
+      "name": "Efreet"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Marid",
+      "name": "Marid"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Vampire",
+      "name": "Vampire"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Slime_(Grey)",
+      "name": "Slime"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fetish_Bloodweaver",
+      "name": "Fetish Bloodweaver"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Jaguar",
+      "name": "Jaguar"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sabertooth",
+      "name": "Sabertooth"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Magma_Golem",
+      "name": "Magma Golem"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Harpy_Spellweaver",
+      "name": "Harpy Spellweaver"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton_Sharpshooter",
+      "name": "Skeleton Sharpshooter"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blue_Fungling",
+      "name": "Blue Fungling"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf_Sharpshooter",
+      "name": "Elf Sharpshooter"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf_Sharpshooter",
+      "name": "Dark Elf Sharpshooter"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Priestess",
+      "name": "Priestess"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fledgling_Dragon",
+      "name": "Fledgling Dragon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_Dragoneater",
+      "name": "Dwarf Dragoneater"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Deathkiss_Watcher",
+      "name": "Deathkiss Watcher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cougar",
+      "name": "Cougar"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elephant",
+      "name": "Elephant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fetish_Shaman",
+      "name": "Fetish Shaman"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crystalbeast",
+      "name": "Crystalbeast"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton_Plaguespreader",
+      "name": "Skeleton Plaguespreader"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Maneater",
+      "name": "Maneater"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crocodile",
+      "name": "Crocodile"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cave_Troll",
+      "name": "Cave Troll"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wendigo",
+      "name": "Wendigo"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Anubis",
+      "name": "Anubis"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ant_Soldier",
+      "name": "Ant Soldier"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Channeler",
+      "name": "Channeler"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chaos_Fiend",
+      "name": "Chaos Fiend"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Mindless_Worshiper",
+      "name": "Mindless Worshiper"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bonebeast",
+      "name": "Bonebeast"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Ice_Elemental",
+      "name": "Giant Ice Elemental"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Necromancer",
+      "name": "Necromancer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Elf_Swordmaster",
+      "name": "Elf Swordmaster"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Elf_Swordmaster",
+      "name": "Dark Elf Swordmaster"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sandbeast",
+      "name": "Sandbeast"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swamp_Abomination",
+      "name": "Swamp Abomination"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fire_Ant_Soldier",
+      "name": "Fire Ant Soldier"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Harpy_Queen",
+      "name": "Harpy Queen"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Imperial_Soldier",
+      "name": "Imperial Soldier"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Orc_Warlord",
+      "name": "Orc Warlord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dragon",
+      "name": "Dragon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Evoker",
+      "name": "Evoker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ancient_Scarab",
+      "name": "Ancient Scarab"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Restless_Skeleton",
+      "name": "Restless Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Crystal_Beetle",
+      "name": "Crystal Beetle"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Entling",
+      "name": "Entling"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chimpanzee",
+      "name": "Chimpanzee"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Corrupted_Watcher",
+      "name": "Corrupted Watcher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Emperor_Scorpion",
+      "name": "Emperor Scorpion"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Snow_Ravager",
+      "name": "Snow Ravager"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sandskull_Spider",
+      "name": "Sandskull Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Archer_(Creature)",
+      "name": "Archer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blazing_Spider",
+      "name": "Blazing Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Lich",
+      "name": "Lich"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Banshee",
+      "name": "Banshee"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton_Mage",
+      "name": "Skeleton Mage"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Spider",
+      "name": "Giant Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ogre_Gruntz",
+      "name": "Ogre Gruntz"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Fire_Elemental",
+      "name": "Giant Fire Elemental"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Tar_Monstrosity",
+      "name": "Tar Monstrosity"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Drake",
+      "name": "Drake"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Slave_Guard",
+      "name": "Slave Guard"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Deathslicer",
+      "name": "Deathslicer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Plant_Devourer",
+      "name": "Plant Devourer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Jothun",
+      "name": "Jothun"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Frost_Drake",
+      "name": "Frost Drake"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Vigilante",
+      "name": "Vigilante"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cultist_Brute",
+      "name": "Cultist Brute"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fledgling_Dragon_Lord",
+      "name": "Fledgling Dragon Lord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Arcanist",
+      "name": "Arcanist"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hero",
+      "name": "Hero"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Winged_Vermin",
+      "name": "Winged Vermin"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Skeleton",
+      "name": "Giant Skeleton"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Cobra",
+      "name": "Giant Cobra"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Fiery_Beetle",
+      "name": "Fiery Beetle"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wild_Gryphon",
+      "name": "Wild Gryphon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Soulless",
+      "name": "Soulless"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hellfire",
+      "name": "Hellfire"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Huntsman_Spider",
+      "name": "Huntsman Spider"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Grim_Adept",
+      "name": "Grim Adept"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Forgotten_Pharaoh",
+      "name": "Forgotten Pharaoh"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Swamp_Demon",
+      "name": "Swamp Demon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Black_Knight",
+      "name": "Black Knight"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Giant_Revenant",
+      "name": "Giant Revenant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ogre_Smasher",
+      "name": "Ogre Smasher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cultist_Hexer",
+      "name": "Cultist Hexer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Oculus",
+      "name": "Oculus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dragon_Lord",
+      "name": "Dragon Lord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cultist_Blooddrinker",
+      "name": "Cultist Blooddrinker"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ogre_Warrior",
+      "name": "Ogre Warrior"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shakirian_Prayer",
+      "name": "Shakirian Prayer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ice_Golem",
+      "name": "Ice Golem"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Titan",
+      "name": "Titan"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Frost_Dragon",
+      "name": "Frost Dragon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dwarf_General",
+      "name": "Dwarf General"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Drake_Lord",
+      "name": "Drake Lord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ancient_Golem",
+      "name": "Ancient Golem"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skull_Reaper",
+      "name": "Skull Reaper"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Demorc",
+      "name": "Demorc"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blue_Fungi",
+      "name": "Blue Fungi"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Nightmare",
+      "name": "Nightmare"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Lightbringer_Knight",
+      "name": "Lightbringer Knight"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shattered_Soul",
+      "name": "Shattered Soul"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cursed_Skull_(Creature)",
+      "name": "Cursed Skull"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Grim",
+      "name": "Dark Grim"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Red_Wyvern",
+      "name": "Red Wyvern"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hellion",
+      "name": "Hellion"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shade",
+      "name": "Shade"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Warlock",
+      "name": "Warlock"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Priest_of_Light",
+      "name": "Priest of Light"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Priestess_of_Light",
+      "name": "Priestess of Light"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Screamer",
+      "name": "Screamer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Deranger",
+      "name": "Deranger"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wraith",
+      "name": "Wraith"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Tar_Priest",
+      "name": "Tar Priest"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chaos_Worshiper",
+      "name": "Chaos Worshiper"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Hydra",
+      "name": "Hydra"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Albino_Dragon",
+      "name": "Albino Dragon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bedsore",
+      "name": "Bedsore"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Undead_Reaper",
+      "name": "Undead Reaper"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Black_Widow",
+      "name": "Black Widow"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Royalist",
+      "name": "Royalist"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Wight",
+      "name": "Wight"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Skeleton_Warlord",
+      "name": "Skeleton Warlord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blue_Wyvern",
+      "name": "Blue Wyvern"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Sphinx",
+      "name": "Sphinx"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Manticore",
+      "name": "Manticore"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Bookwarden",
+      "name": "Bookwarden"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Demon",
+      "name": "Demon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Demorc_Brute",
+      "name": "Demorc Brute"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Gorgon",
+      "name": "Gorgon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Weakened_Shadow",
+      "name": "Weakened Shadow"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blood_Witch",
+      "name": "Blood Witch"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Undead_Titan",
+      "name": "Undead Titan"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Alphabeast",
+      "name": "Alphabeast"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Cerberus",
+      "name": "Cerberus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Abomination",
+      "name": "Abomination"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ancient_Watcher",
+      "name": "Ancient Watcher"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blasphemer",
+      "name": "Blasphemer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chimera",
+      "name": "Chimera"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Phoenix",
+      "name": "Phoenix"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ice_Phoenix",
+      "name": "Ice Phoenix"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Succubus",
+      "name": "Succubus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ashlord",
+      "name": "Ashlord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Demorc_Warchief",
+      "name": "Demorc Warchief"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Azure_Mercenary",
+      "name": "Azure Mercenary"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Venerator",
+      "name": "Venerator"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Blood_Sphinx",
+      "name": "Blood Sphinx"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Incidamus",
+      "name": "Incidamus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Flamebringer",
+      "name": "Flamebringer"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Corruptor",
+      "name": "Corruptor"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shadow_Guard",
+      "name": "Shadow Guard"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Undead_Dragon",
+      "name": "Undead Dragon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Typhon",
+      "name": "Typhon"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shadow_Phoenix",
+      "name": "Shadow Phoenix"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Icon_of_Light",
+      "name": "Icon of Light"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Holy_Sentinel",
+      "name": "Holy Sentinel"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dreadlord",
+      "name": "Dreadlord"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ritualist",
+      "name": "Ritualist"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Chaos_Hydra",
+      "name": "Chaos Hydra"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Furious_Chimpanzee",
+      "name": "Furious Chimpanzee"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Albino_Crocodile",
+      "name": "Albino Crocodile"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Shadow_Panda",
+      "name": "Shadow Panda"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Dark_Follower",
+      "name": "Dark Follower"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Servant_of_Suffocent",
+      "name": "Servant of Suffocent"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/index.php?title=Colossal_Giant&amp;action=edit&amp;redlink=1",
+      "name": "Colossal Giant"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ancient_Colossus",
+      "name": "Ancient Colossus"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/index.php?title=Honou%27s_Guard&amp;action=edit&amp;redlink=1",
+      "name": "Honou's Guard"
+    },
+    {
+      "url": "https://wiki.mediviastats.info/Ancient_Wyvern",
+      "name": "Ancient Wyvern"
+    }
+  ]
+}

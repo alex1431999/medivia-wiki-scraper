@@ -6,7 +6,7 @@ class Scraper {
     return (await axios.get(url)).data;
   }
 
-  navigateTo(content: string, target: string) {
+  navigateTo(content: string, target: string): string {
     let contentCopy = _.cloneDeep(content)
 
     while (contentCopy.length !== 1) {
@@ -20,7 +20,7 @@ class Scraper {
     throw Error('Did not find target')
   }
 
-  extract(content: string, end: string) {
+  extract(content: string, end: string): string {
     let contentCopy = _.cloneDeep(content)
 
     for (let i = 0; i < content.length; i += 1) {
